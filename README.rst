@@ -10,8 +10,7 @@ Overview
     * - docs
       - |docs|
     * - tests
-      - | |travis| |requires|
-        | |codecov|
+      - | |travis| |codecov|
     * - package
       - |version| |downloads| |wheel| |supported-versions| |supported-implementations|
 
@@ -22,10 +21,6 @@ Overview
 .. |travis| image:: https://travis-ci.org/piwik/piwik-python-tracker.svg?branch=master
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/piwik/piwik-python-tracker
-
-.. |requires| image:: https://requires.io/github/piwik/piwik-python-tracker/requirements.svg?branch=master
-    :alt: Requirements Status
-    :target: https://requires.io/github/piwik/piwik-python-tracker/requirements/?branch=master
 
 .. |codecov| image:: https://codecov.io/github/piwik/piwik-python-tracker/coverage.svg?branch=master
     :alt: Coverage Status
